@@ -1,1 +1,1 @@
-# Experimento de dos dados
+# Probabilidad y estadística Diplomado
